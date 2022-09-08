@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qEqoUY1BMZzc77JqaY/zCuk1ZdbfwqU8lBFB1gkYYKNYv6U2FiYEoo/y7p41WgAEiXuWyX1K1+Vkc3YiirSlfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kirill\\source\\repos\\Project2\\Project2\\Project2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kirill\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
